@@ -7,14 +7,14 @@
 	"url": "https://sourceforge.net/project/justpe/A14/PixelOS/7TPro/PixelOS_hotdog-14.0-20240212-1441.zip",
 	"github_releases_url": "https://sourceforge.net/project/justpe/A14/PixelOS/7TPro/PixelOS_hotdog-14.0-20240212-1441.zip",
 	"filehash": "903aabc1cbbe5e115c6a54385b300e53",
-	"id": "9ea9f1a8bd152d0ad0e53edb387c3b5e",
+	"id": "d0fabc0832fee780d96f5bd27a2d790c",
 	"maintainers": [{
 		"main_maintainer": false,
 		"ci_username": "Just_Pisces",
 		"name": "Just_Pisces"
 	}],
-	"donate_url": "https://bit.ly/pixelexperiencedonate",
-	"website_url": "https://download.pixelexperience.org",
-	"news_url": "https://t.me/PixelExperience",
-	"forum_url": "https://www.coolapk.com/feed/50792943?shareKey=MmY0NzRhM2Y3MTYzNjU1ZTIzYTA~"
+	"donate_url": "",
+	"website_url": "https://pixelos.vercel.app/",
+	"news_url": "https://t.me/PixelOSOfficial",
+	"forum_url": "https://www.coolapk.com/feed/53575053?shareKey=ODVhY2U1NTQwNmVmNjVkNGFjMWI~"
 }
