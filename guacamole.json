@@ -1,0 +1,20 @@
+{
+	"error": false,
+	"version": "fourteen",
+	"filename": "PixelOS_guacamole-14.0-20240221-2059",
+	"datetime": 1708520243,
+	"size": 2239266488,
+	"url": "https://sourceforge.net/project/justpe/A14/PixelOS/7Pro/PixelOS_guacamole-14.0-20240221-2059.zip",
+	"github_releases_url": "https://sourceforge.net/project/justpe/A14/PixelOS/7Pro/PixelOS_guacamole-14.0-20240221-2059.zip",
+	"filehash": "e7f508d6f32077200d046e06a4b75a2c",
+	"id": "6585cee25ecbd8041945b2fc9904dad6",
+	"maintainers": [{
+		"main_maintainer": false,
+		"ci_username": "Just_Pisces",
+		"name": "Just_Pisces"
+	}],
+	"donate_url": "https://t.me/PixelOSOfficial",
+	"website_url": "https://pixelos.vercel.app/",
+	"news_url": "https://t.me/PixelOSOfficial",
+	"forum_url": "https://www.coolapk.com/feed/53575053?shareKey=ODVhY2U1NTQwNmVmNjVkNGFjMWI~"
+}
