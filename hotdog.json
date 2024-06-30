@@ -1,12 +1,12 @@
 {
 	"error": false,
 	"version": "fourteen",
-	"filename": "PixelOS_hotdog-14.0-20240615-1011.zip",
-	"datetime": 1718417493,
-	"size": 2155038992,
-	"url": "https://master.dl.sourceforge.net/project/justpe/A14/PixelOS/7TPro/PixelOS_hotdog-14.0-20240615-1011.zip?viasf=1",
-	"github_releases_url": "https://master.dl.sourceforge.net/project/justpe/A14/PixelOS/7TPro/PixelOS_hotdog-14.0-20240615-1011.zip?viasf=1",
-	"filehash": "ed6e3bf5cd2cb6e11634cf8d55ba2aa7",
+	"filename": "PixelOS_hotdog-14.0-20240630-1308.zip",
+	"datetime": 1719724117,
+	"size": 2438174950,
+	"url": "https://master.dl.sourceforge.net/project/justpe/A14/PixelOS/7TPro/PixelOS_hotdog-14.0-20240630-1308.zip?viasf=1",
+	"github_releases_url": "https://master.dl.sourceforge.net/project/justpe/A14/PixelOS/7TPro/PixelOS_hotdog-14.0-20240630-1308.zip?viasf=1",
+	"filehash": "fd02873788ee488f2308e80fe0cbe784",
 	"id": "d0fabc0832fee780d96f5bd27a2d790c",
 	"maintainers": [{
 		"main_maintainer": false,

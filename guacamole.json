@@ -1,12 +1,12 @@
 {
 	"error": false,
 	"version": "fourteen",
-	"filename": "PixelOS_guacamole-14.0-20240615-1026",
-	"datetime": 1718418384,
-	"size": 2142457810,
-	"url": "https://master.dl.sourceforge.net/project/justpe/A14/PixelOS/7Pro/PixelOS_guacamole-14.0-20240615-1026.zip?viasf=1",
-	"github_releases_url": "https://sourceforge.net/project/justpe/A14/PixelOS/7Pro/PixelOS_guacamole-14.0-20240615-1026.zip?viasf=1",
-	"filehash": "41b6e0d5472f5975ef19fb0b8bb980f3",
+	"filename": "PixelOS_guacamole-14.0-20240630-1323",
+	"datetime": 1719724979,
+	"size": 2418687357,
+	"url": "https://master.dl.sourceforge.net/project/justpe/A14/PixelOS/7Pro/PixelOS_guacamole-14.0-20240630-1323.zip?viasf=1",
+	"github_releases_url": "https://sourceforge.net/project/justpe/A14/PixelOS/7Pro/PixelOS_guacamole-14.0-20240630-1323.zip?viasf=1",
+	"filehash": "f0649f74750345e7e2b9c39a15d0427c",
 	"id": "6585cee25ecbd8041945b2fc9904dad6",
 	"maintainers": [{
 		"main_maintainer": false,
